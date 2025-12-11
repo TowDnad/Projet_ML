@@ -4,7 +4,7 @@ This project focuses on forecasting the EUR/USD exchange rate using basic Machin
 
 ### Project Overview
 
-In the Project.ipynb you'll see: 
+In the EUR_USD_Prediction.ipynb you'll see: 
 1. Data loading and preprocessing.
 2. Data exploration to check missing values.
 3. Model implementation (Linear Regression, Random Forest, XGBoost, ARIMA, etc.).
